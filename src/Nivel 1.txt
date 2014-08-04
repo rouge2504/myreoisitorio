@@ -1,0 +1,5 @@
+Nivel 1
+posicion cuadradoX 5
+posicion cuadradoY 5
+posicion personajeX 2
+posicion personajeY 2
